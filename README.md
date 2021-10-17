@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS, ...**
 
+- 📫 Visit my bio @ **https://bio.link/shubhank**
+
 - 📫 How to reach me **shubhankarsharma22@gmail.com**
 
 - ⚡ Fun fact **I think I am Noob.**
