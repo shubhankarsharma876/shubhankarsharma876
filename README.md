@@ -6,15 +6,17 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS, ...**
 
-- 🕸 Visit my portfolio @ **https://shubhankarsharma876.github.io/Portfolio/**
+- 🕸 Visit my [portfolio](https://shubhankarsharma876.github.io/Portfolio/)
 
 - 📫 Visit my bio @ **https://bio.link/shubhank**
 
 - 📫 How to reach me **shubhankarsharma22@gmail.com**
 
+- 📺 Project videos published at [Vimeo](https://vimeo.com/shubhankar)
+
 - ⚡ Fun fact about me **Look to read about bravery.**
 
--♟ Let have a match [Chess.com]{https://www.chess.com/member/falconfast}
+- ♟ Let have a match [Chess.com](https://www.chess.com/member/falconfast)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhan87030520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhan87030520" height="30" width="40" /></a>
