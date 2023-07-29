@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarsharma876&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarsharma876" /> </p>
 
-- 🌱 I’m currently learning **Java, HTML, CSS, ...**
+- 🌱 I’m currently working on **MERN stack**
 
-- 🕸 Visit my [portfolio](https://shubhankarsharma876.github.io/Portfolio/)
+- 🕸 Visit my [portfolio](https://shubhankar-port.vercel.app/)
 
 - 📫 Visit my bio @ **https://bio.link/shubhank**
 
