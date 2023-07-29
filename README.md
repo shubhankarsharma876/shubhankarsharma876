@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubhankarsharma22@gmail.com**
 
-- 📺 Project videos published at [Vimeo](https://vimeo.com/shubhankar)
+- 📺 Project videos published at [Vimeo](https://vimeo.com/shubhankar) [Youtube](https://www.youtube.com/@shubhankar2002)
 
 - ⚡ Fun fact about me **Look to read about bravery.**
 
