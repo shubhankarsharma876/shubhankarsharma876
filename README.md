@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarsharma876&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarsharma876" /> </p>
 
-- 🌱 I’m currently working on **MERN stack**
+- 🌱 I’m currently working on **React.js + Springboot stack**
 
 - 🕸 Visit my [portfolio](https://shubhankar-port.vercel.app/)
 
